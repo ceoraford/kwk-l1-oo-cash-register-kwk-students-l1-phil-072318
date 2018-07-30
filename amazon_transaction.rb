@@ -6,4 +6,4 @@ class AmazonTransaction
   @discount = discount 
   end 
 end 
-amazon_transaction = AmazonTransaction.new 
+amazon_transaction = AmazonTransaction.new (0, )
