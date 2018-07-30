@@ -5,6 +5,7 @@ class AmazonTransaction
   @items = []
   @discount = discount 
   end 
-  def 
+  def total 
+  end 
 end 
   
