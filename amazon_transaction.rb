@@ -1,2 +1,3 @@
 # Code your cash register here!
-class Ama
+class Amazontransaction
+  
