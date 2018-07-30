@@ -1,5 +1,5 @@
 # Code your cash register here!
-class Amazontransaction
+class AmazonTransaction
   def initialize (total, discount)
   @total = total  
   @items = []
