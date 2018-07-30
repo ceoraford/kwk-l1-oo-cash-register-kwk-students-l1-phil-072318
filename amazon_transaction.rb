@@ -1,9 +1,9 @@
 # Code your cash register here!
 class Amazontransaction
   def initialize (total, discount)
-  @total = 0 
+  @total = total  
   @items = []
-  @discount = 20 
+  @discount = discount 
   end 
 end 
   
