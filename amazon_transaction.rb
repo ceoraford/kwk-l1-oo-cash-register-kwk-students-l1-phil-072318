@@ -8,6 +8,8 @@ class AmazonTransaction
   def total 
     return @total 
   end 
-  def 
+  def total= new_total 
+    
+  end 
 end 
   
