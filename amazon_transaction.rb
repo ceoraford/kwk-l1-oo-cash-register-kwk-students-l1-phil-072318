@@ -6,7 +6,8 @@ class AmazonTransaction
   @discount = discount 
   end 
   def total 
-    return 
+    return @total 
   end 
+  def 
 end 
   
