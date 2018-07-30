@@ -9,7 +9,7 @@ class AmazonTransaction
     return @total 
   end 
   def total= (0)
-    @toal = 
+    @toal = 0 
   end 
 end 
   
